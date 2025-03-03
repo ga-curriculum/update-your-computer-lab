@@ -23,7 +23,7 @@ Estimated time to complete core lab exercise: **30 min**
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/update-your-computer-lab/canvas-landing-pages/ITB.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/update-your-computer-lab/canvas-landing-pages/itb.html)
 - [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/update-your-computer-lab/canvas-landing-pages/fallback.html)
 
 ### Resources

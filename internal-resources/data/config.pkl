@@ -29,7 +29,7 @@ courses {
   }
     new {
     // Do not remove this fallback course!
-    name = "ITB"
+    name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
       mls.updateYourComputer
