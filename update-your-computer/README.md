@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Update Your Computer Lab</span>
-  <span class="subhead">tktk Microlesson 01</span>
+  <span class="subhead">Update Your Computer</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to check their current OS version, determine if updates are available, and apply those updates to their system.
