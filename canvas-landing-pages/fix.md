@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Update Your Computer</span>
+  <span class="headline">Update Your Computer Lab</span>
 </h1>
 
 ## About
@@ -9,4 +9,4 @@ Keeping your operating system (OS) up to date is crucial for maintaining the sec
 
 ## Content
 
-- [Update Your Computer](../update-your-computer/README.md)
+- [Update Your Computer](../update-your-computer-lab/README.md)

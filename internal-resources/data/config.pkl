@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Update Your Computer"
+  friendlyName = "Update Your Computer Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "update-your-computer"
+  name = "update-your-computer-lab"
   type = "Lab"
 }
 

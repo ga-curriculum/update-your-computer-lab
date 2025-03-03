@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Update Your Computer",
-    "name": "update-your-computer",
+    "friendlyName": "Update Your Computer Lab",
+    "name": "update-your-computer-lab",
     "type": "Lab",
     "about": "",
     "starterCode": "",
@@ -20,8 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Update Your Computer",
-          "dirName": "update-your-computer",
+          "friendlyName": "Update Your Computer Lab",
+          "dirName": "update-your-computer-lab",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -59,8 +59,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Update Your Computer",
-          "dirName": "update-your-computer",
+          "friendlyName": "Update Your Computer Lab",
+          "dirName": "update-your-computer-lab",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

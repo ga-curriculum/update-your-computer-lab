@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Update Your Computer</span>
+  <span class="headline">Update Your Computer Lab</span>
   <span class="subhead">Release Notes</span>
 </h1>
 
