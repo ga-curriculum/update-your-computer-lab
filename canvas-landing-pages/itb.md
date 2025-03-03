@@ -9,4 +9,4 @@ Keeping your operating system (OS) up to date is crucial for maintaining the sec
 
 ## Content
 
-- [Update Your Computer](../update-your-computer-lab/README.md)
+- [Update Your Computer](../update-your-computer/README.md)
