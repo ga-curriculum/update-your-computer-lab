@@ -16,6 +16,11 @@ Start by following the setup instructions. Then, choose the appropriate lab for 
 - [Update Your Computer - macOS](./update-your-computer-macos/README.md)
 - [Update Your Computer - Ubuntu](./update-your-computer-ubuntu/README.md)
 
+## Rubrics
+
+- [ITB Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
+
 ## Internal
 
 ### Prerequisites

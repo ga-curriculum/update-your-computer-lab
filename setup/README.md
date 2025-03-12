@@ -68,4 +68,4 @@ Open the <code class="filepath">README.md</code> file in VS Code and add the fol
 
 ```
 
-Add the name of your operating system (for example, Windows, macOS, or Ubuntu) to the **Operating System** section.
+Add the name of your operating system (for example, Windows 11, macOS Sequoia, or Ubuntu 24.04) to the **Operating System** section.

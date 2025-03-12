@@ -15,3 +15,7 @@ Start by following the setup instructions. Then, choose the appropriate lab for 
 - [Update Your Computer - Windows](../update-your-computer-windows/README.md)
 - [Update Your Computer - macOS](../update-your-computer-macos/README.md)
 - [Update Your Computer - Ubuntu](../update-your-computer-ubuntu/README.md)
+
+## Rubric
+
+[Rubric](../rubrics/itb.md)
