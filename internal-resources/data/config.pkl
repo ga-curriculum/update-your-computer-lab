@@ -20,19 +20,24 @@ repo {
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.updateYourComputerWindows
+      mls.updateYourComputerMacos
+      mls.updateYourComputerUbuntu
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.updateYourComputer
-    }
-  }
-    new {
-    // Do not remove this fallback course!
-    name = "itb"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.updateYourComputer
+      mls.setup
+      mls.updateYourComputerWindows
+      mls.updateYourComputerMacos
+      mls.updateYourComputerUbuntu
     }
   }
 }

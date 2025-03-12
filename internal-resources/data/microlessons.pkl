@@ -2,10 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-updateYourComputer = new Template.Microlesson {
-  friendlyName = "Update Your Computer Lab"
-  dirName = "update-your-computer-lab"
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
   type = "Content"
   videoUrl = ""
 }
 
+updateYourComputerWindows = new Template.Microlesson {
+  friendlyName = "Update Your Computer - Windows"
+  dirName = "update-your-computer-windows"
+  type = "Content"
+  videoUrl = ""
+}
+
+updateYourComputerMacos = new Template.Microlesson {
+  friendlyName = "Update Your Computer - macOS"
+  dirName = "update-your-computer-macos"
+  type = "Content"
+  videoUrl = ""
+}
+
+updateYourComputerUbuntu = new Template.Microlesson {
+  friendlyName = "Update Your Computer - Ubuntu"
+  dirName = "update-your-computer-ubuntu"
+  type = "Content"
+  videoUrl = ""
+}

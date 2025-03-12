@@ -10,4 +10,9 @@ Keeping your operating system (OS) up to date is crucial for maintaining the sec
 
 ## Content
 
-- [Update Your Computer](../update-your-computer/README.md)
+Start by following the setup instructions. Then, choose the appropriate lab for the operating system you're using.
+
+- [Setup](../setup/README.md)
+- [Update Your Computer - Windows](../update-your-computer-windows/README.md)
+- [Update Your Computer - macOS](../update-your-computer-macos/README.md)
+- [Update Your Computer - Ubuntu](../update-your-computer-ubuntu/README.md)
