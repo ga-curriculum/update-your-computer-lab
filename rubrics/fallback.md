@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Intro to Bash Scripting Lab</span>
+  <span class="headline">Update Your Computer Lab</span>
   <span class="subhead">Rubric</span>
 </h1>
 
