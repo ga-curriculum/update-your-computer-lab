@@ -14,14 +14,44 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Update Your Computer Lab",
-          "dirName": "update-your-computer-lab",
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Update Your Computer - Windows",
+          "dirName": "update-your-computer-windows",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Update Your Computer - macOS",
+          "dirName": "update-your-computer-macos",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Update Your Computer - Ubuntu",
+          "dirName": "update-your-computer-ubuntu",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -53,14 +83,44 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Update Your Computer Lab",
-          "dirName": "update-your-computer-lab",
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Update Your Computer - Windows",
+          "dirName": "update-your-computer-windows",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Update Your Computer - macOS",
+          "dirName": "update-your-computer-macos",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Update Your Computer - Ubuntu",
+          "dirName": "update-your-computer-ubuntu",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
